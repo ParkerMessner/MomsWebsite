@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import Navbar from '../comps/navbar'
 import Image from 'next/image'
 
 export default function Home() {
